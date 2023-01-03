@@ -22,4 +22,4 @@ Used
 - terminal output styling (https://github.com/piotrmurach/pastel)
 - Live Golf Data API(https://rapidapi.com/slashgolf/api/live-golf-data/details)
 
-<img src="/Users/juwondo/Desktop/0.png" alt="Alt text" title="Optional title">
+
